@@ -19,7 +19,7 @@ public class CCuenta {
     public CCuenta()
     {
     }
-
+    //esto es una nueva línea
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
         nombre =nom;
